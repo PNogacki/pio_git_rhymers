@@ -2,9 +2,9 @@ package edu.kis.vh.nursery;
 
 import org.junit.Assert;
 import org.junit.Test;
+//Wszystkie testy Przebiegły poprawnie
 
 public class RhymersJUnitTest {
-
     @Test
     public void testCountIn() {
         DefaultCountingOutRhymer rhymer = new DefaultCountingOutRhymer();
